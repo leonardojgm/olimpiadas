@@ -24,5 +24,4 @@ Uma aplicação web intuitiva e interativa para pesquisar informações sobre at
    ```bash
    git clone https://github.com/leonardojgm/olimpiadas
 
-![image](https://github.com/user-attachments/assets/8d374e3c-34c4-4af3-a1e0-6028f9a65c7b)
-
+![image](https://github.com/user-attachments/assets/8f60f28c-edf4-41e3-b87c-a5298b964738)
